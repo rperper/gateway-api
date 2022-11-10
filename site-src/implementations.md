@@ -229,11 +229,11 @@ Kuma is actively working on an implementation of Gateway API specification for t
 
 ### LiteSpeed Ingress Controller
 
-The [LiteSpeed Ingress Controller](https://litespeedtech.com/products/litespeed-web-adc/features/litespeed-ingress-controller) uses Kubernetes and the LiteSpeed WebADC engine to deliver excellent Load Balancing capabilities.  Gateway API support includes all Core features available in v1beta1 including Gateway, GatewayClass, HTTPRoute and ReferenceGrant.  It is currently in beta.
+The [LiteSpeed Ingress Controller](https://litespeedtech.com/products/litespeed-web-adc/features/litespeed-ingress-controller) uses Kubernetes and the LiteSpeed WebADC engine to deliver excellent Load Balancing capabilities.  Gateway API support includes all Core features available in v1beta1 including Gateway, GatewayClass, HTTPRoute and ReferenceGrant and the Gateway functions of cert-manager.  Gateway is fully integrated into the LiteSpeed Ingress Controller.
 
-[Gateway Documentation](https://docs.litespeedtech.com/cloud/kubernetes/gateway/)
-
-[Support](https://litespeedtech.com/support)
+[Product Documentation](https://docs.litespeedtech.com/cloud/kubernetes/.
+[Gateway Documentation](https://docs.litespeedtech.com/cloud/kubernetes/gateway/).
+[Support](https://litespeedtech.com/support).
 
 
 ### NGINX Kubernetes Gateway
